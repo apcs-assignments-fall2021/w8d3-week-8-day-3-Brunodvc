@@ -10,8 +10,10 @@ public class RationalClient {
         System.out.println(r.denominator);
 
         // Rational s = new Rational(1, 3);
-        // System.out.println(s);
-        // Rational t = Rational.add(r, s);
-        // System.out.println(t);
+         //System.out.println(s);
+         //Rational t = Rational.add(r, s);
+         //System.out.println(t);
+
+       // System.out.println(r.isSimplified());
     }
 }
